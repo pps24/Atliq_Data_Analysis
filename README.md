@@ -23,7 +23,7 @@ Utilized Power BI Desktop to create comprehensive dashboards and reports, includ
 
 1. ### Finance View: 
    ![finance](finance.png)
-   Profit and loss statement analysis by customer, product, or country over any time period.
+   - Profit and loss statement analysis by customer, product, or country over any time period.
 3. **Sales View**: Performance analysis of customers based on key metrics like net sales and gross margin.
    ![sales](sales.png)
 4. **Marketing View**: Analysis of product performance in terms of net sales and gross margin.
