@@ -2,13 +2,15 @@
 
 ![Power BI Visualization](1.png)
 
+Access the complete Power BI visualization [here](https://app.powerbi.com/view?r=eyJrIjoiMGVhZmU4NWYtOTA1YS00M2E5LTg1MDAtZDUxN2NkNDhlNGRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906).
+
 ## Problem Statement
 
 AtliQ Hardware, a computer hardware and peripheral manufacturer with branches across India, is experiencing declining sales and struggling to understand its business performance. The sales director faces challenges in gathering and interpreting sales data efficiently. Regional managers find it cumbersome to extract insights from Excel files, leading to frustration and a lack of clarity regarding sales trends, customer preferences, stock management, and effective advertising strategies. To address these issues, AtliQ requires a solution to visualize sales patterns, enabling data-driven decision-making and business improvement.
 
 ## Data Analysis and Visualization using Power BI
 
-- Utilized the provided SQL database dump (`db_dump.sql`) to connect MySQL Database with Power BI Desktop.
+- Utilized the provided SQL database dump to connect MySQL Database with Power BI Desktop.
 - Loaded data into Power BI Desktop and transformed it using Power Query to ensure accuracy and consistency.
 - Prepared data for analysis and visualization through meticulous cleaning and transformation within Power BI usig Power query.
 
