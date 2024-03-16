@@ -22,10 +22,15 @@ AtliQ Hardware, a computer hardware and peripheral manufacturer with branches ac
 Utilized Power BI Desktop to create comprehensive dashboards and reports, including:
 
 1. **Finance View**: Profit and loss statement analysis by customer, product, or country over any time period.
+   ![finance](finance.png)
 2. **Sales View**: Performance analysis of customers based on key metrics like net sales and gross margin.
+   ![sales](sales.png)
 3. **Marketing View**: Analysis of product performance in terms of net sales and gross margin.
+   ![marketing](marketing.png)
 4. **Supply Chain View**: Forecast accuracy, net error, and risk profile analysis for product segments and customers.
+   ![supply_chain](supply_chain.png)
 5. **Executive View**: Top-level dashboard consolidating insights across all dimensions of the business.
+    ![executive](executive.png)
 
 ## Technologies and Tools Used
 
