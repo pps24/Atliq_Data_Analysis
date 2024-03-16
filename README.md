@@ -70,10 +70,6 @@ Utilized Power BI Desktop to create comprehensive dashboards and reports, includ
 - Absolute error %
 - Aboslute forecast accuracy
 
-## Viewing Power BI Visualization
-
-Access the complete Power BI visualization [here](https://app.powerbi.com/view?r=eyJrIjoiMGVhZmU4NWYtOTA1YS00M2E5LTg1MDAtZDUxN2NkNDhlNGRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906).
-
 ## About Power BI
 
 Power BI is a business analytics tool by Microsoft that allows users to visualize and analyze data from various sources. It offers interactive dashboards and reports, providing insights into business performance and enabling data-driven decision-making.
