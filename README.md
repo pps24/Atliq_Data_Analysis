@@ -6,19 +6,12 @@
 
 AtliQ Hardware, a computer hardware and peripheral manufacturer with branches across India, is experiencing declining sales and struggling to understand its business performance. The sales director faces challenges in gathering and interpreting sales data efficiently. Regional managers find it cumbersome to extract insights from Excel files, leading to frustration and a lack of clarity regarding sales trends, customer preferences, stock management, and effective advertising strategies. To address these issues, AtliQ requires a solution to visualize sales patterns, enabling data-driven decision-making and business improvement.
 
-## Data Analysis using MySQL
+## Data Analysis and Visualization using Power BI
 
-- Completed data discovery and analysis using MySQL.
-- Provided SQL database dump in `db_dump.sql`.
-- Imported data into MySQL Workbench.
-- Conducted data analysis through complex SQL queries.
+- Utilized the provided SQL database dump (`db_dump.sql`) to connect MySQL Database with Power BI Desktop.
+- Loaded data into Power BI Desktop and transformed it using Power Query to ensure accuracy and consistency.
+- Prepared data for analysis and visualization through meticulous cleaning and transformation within Power BI usig Power query.
 
-## Data Cleaning and ETL (Extract, Transform, Load)
-
-- Connected MySQL Database with Power BI Desktop.
-- Loaded data into Power BI Desktop.
-- Transformed data using Power Query to ensure accuracy and consistency.
-- Prepared data for analysis and visualization through meticulous cleaning and transformation.
 
 ## Building Dashboards or Reports
 
@@ -39,7 +32,7 @@ Utilized Power BI Desktop to create comprehensive dashboards and reports, includ
 - Excel
 - DAX Language
 - DAX Studio (for report optimization)
-- Project Charter file
+
 
 ### Power BI Techniques:
 
